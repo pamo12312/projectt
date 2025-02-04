@@ -8,7 +8,7 @@ export function Hero() {
       <div className="absolute inset-0 bg-black/50" />
       <div className="relative h-full flex items-center justify-center text-center px-4">
         <div>
-          <h1 className="text-4xl md:text-6xl font-bold text-white mb-4">Kondiční Jízdy Praha</h1>
+          <h1 className="text-4xl md:text-6xl font-bold text-white mb-4">Kondiční Jízdy Moravec</h1>
           <p className="text-xl text-gray-200">Obnovte své řidičské dovednosti s profesionály</p>
         </div>
       </div>
