@@ -52,8 +52,7 @@ export function Contact() {
                 </div>
                 <div>
                   <h3 className="font-bold text-lg mb-1">Naše Adresa</h3>
-                  <p className="text-gray-600">Václavské náměstí 1</p>
-                  <p className="text-gray-600">Praha 1, 110 00</p>
+                  <p className="text-gray-600">Dle tel. domluvy</p>
                 </div>
               </div>
 
@@ -96,7 +95,7 @@ export function Contact() {
 
           <div className="bg-white rounded-lg shadow-lg overflow-hidden">
             <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2566.2794137147866!2d14.741829177020875!3d49.968618371504306!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x470b89e0e1857615%3A0x1c69beaed0a3ff1a!2sSvojetice%20456%2C%20251%2062%20Svojetice!5e0!3m2!1scs!2scz!4v1738659529038!5m2!1scs!2scz"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2566.2794137147866!2d14.741829177020875!3d49.968618371504306!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x470b89e0e1857615%3A0x1c69beaed0a3ff1a!2sSvojetice%20456%2C%202  51%2062%20Svojetice!5e0!3m2!1scs!2scz!4v1738659529038!5m2!1scs!2scz"
                 width="600" height="450"  loading="lazy"
                 referrerPolicy="no-referrer-when-downgrade"></iframe>
           </div>

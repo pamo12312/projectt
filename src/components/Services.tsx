@@ -24,8 +24,18 @@ export function Services() {
         />
           <ServiceCard
               icon={<Shield className="w-8 h-8" />}
-              title="Defenzivni styl výuky"
+              title="Defenzivni jízda"
               description="Důraz na bezpečnou jízdu a prevenci před nehodami"
+          />
+          <ServiceCard
+              icon={<Shield className="w-8 h-8" />}
+              title="Ekonomická jízda"
+              description="Snižování provozních nákladů vozidla"
+          />
+          <ServiceCard
+              icon={<Shield className="w-8 h-8" />}
+              title="Jízda v Praze"
+              description="Procvičení řízení v hustém provozu a zvládání křižovatek"
           />
       </div>
     </section>
