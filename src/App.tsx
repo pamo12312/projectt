@@ -33,6 +33,10 @@ function App() {
         <div className="max-w-7xl mx-auto px-4 text-center">
           <p>&copy; 2024 Kondiční jízdy Moravec. Všechna práva vyhrazena.</p>
         </div>
+
+
+
+
       </footer>
     </div>
   );
