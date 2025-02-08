@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Award, Users, Clock, Smile } from 'lucide-react';
 
 const reasons = [
