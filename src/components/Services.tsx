@@ -1,5 +1,5 @@
 
-import {Car, Book, Shield, Power, DollarSign, Citrus, Cast, ShieldCheck, Landmark, Fuel} from 'lucide-react';
+import {Car, Book, Shield, ShieldCheck, Landmark, Fuel} from 'lucide-react';
 import { ServiceCard } from './ServiceCard';
 
 export function Services() {
