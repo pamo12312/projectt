@@ -19,8 +19,8 @@ const reasons = [
   },
   {
     icon: <Smile className="w-8 h-8" />,
-    title: '98% Úspěšnost',
-    description: 'Vysoká úspěšnost našich studentů u závěrečných zkoušek.'
+    title: 'Sebevědomí za volantem',
+    description: 'Kondiční jízdy vám pomohou získat jistotu a potřebné dovednosti.'
   }
 ];
 
