@@ -1,5 +1,5 @@
 
-import { Car, Book, Shield } from 'lucide-react';
+import {Car, Book, Shield, Power, DollarSign, Citrus, Cast, ShieldCheck, Landmark, Fuel} from 'lucide-react';
 import { ServiceCard } from './ServiceCard';
 
 export function Services() {
@@ -23,17 +23,17 @@ export function Services() {
           description="Důraz na bezpečnou jízdu a prevenci nehod"
         />
           <ServiceCard
-              icon={<Shield className="w-8 h-8" />}
+              icon={<ShieldCheck className="w-8 h-8" />}
               title="Defenzivni jízda"
               description="Důraz na bezpečnou jízdu a prevenci před nehodami"
           />
           <ServiceCard
-              icon={<Shield className="w-8 h-8" />}
+              icon={<Fuel className="w-8 h-8" />}
               title="Ekonomická jízda"
               description="Snižování provozních nákladů vozidla"
           />
           <ServiceCard
-              icon={<Shield className="w-8 h-8" />}
+              icon={<Landmark className="w-8 h-8" />}
               title="Jízda v Praze"
               description="Procvičení řízení v hustém provozu a zvládání křižovatek"
           />

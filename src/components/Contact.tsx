@@ -30,7 +30,8 @@ export function Contact() {
 
       setMessage('Děkujeme za vaši zprávu! Brzy vás budeme kontaktovat.');
       setFormData({ name: '', email: '', phone: '' });
-    } catch (error) {
+    } catch (error: unknown) {
+      console.error('Error sending email:', error);
       setMessage('Omlouváme se, došlo k chybě. Prosím zkuste to znovu později.');
     } finally {
       setLoading(false);
