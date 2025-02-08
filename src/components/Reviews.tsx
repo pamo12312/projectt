@@ -5,7 +5,8 @@ const reviews = [
   {
     name: 'Jan Novák',
     rating: 5,
-    text: 'Skvělý přístup instruktorů a profesionální výuka. Díky této autoškole jsem získal řidičák napoprvé!'
+    text: 'Skvělý přístup instruktorů a profesionální výuka. Díky kondičním jízdám v této autoškole jsem si výrazně zlepšil své řidičské dovednosti a získal větší jistotu za volantem!'
+
   },
   {
     name: 'Marie Svobodová',
